@@ -1,4 +1,4 @@
-**🎵 Music Store Data Analysis Project (MySQL)**
+# **🎵 Music Store Data Analysis Project (MySQL)**
 
 📌 Overview
 This project involves analyzing a music store's database to extract meaningful insights about sales, customer behavior, and inventory management. Utilizing MySQL, the project demonstrates how SQL queries can be applied to real-world business scenarios to inform decision-making.
